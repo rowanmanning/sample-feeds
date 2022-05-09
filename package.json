@@ -27,6 +27,6 @@
   },
   "devDependencies": {
     "@rowanmanning/eslint-config": "^3.4.0",
-    "eslint": "^8.14.0"
+    "eslint": "^8.15.0"
   }
 }
