@@ -23,7 +23,7 @@
     "verify": "eslint ."
   },
   "dependencies": {
-    "axios": "^1.0.0"
+    "axios": "^1.1.2"
   },
   "devDependencies": {
     "@rowanmanning/eslint-config": "^4.0.7",
