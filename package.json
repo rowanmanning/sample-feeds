@@ -26,7 +26,7 @@
     "axios": "^1.2.4"
   },
   "devDependencies": {
-    "@rowanmanning/eslint-config": "^5.0.5",
+    "@rowanmanning/eslint-config": "^5.0.6",
     "eslint": "^8.32.0"
   }
 }
