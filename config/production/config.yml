@@ -8,4 +8,4 @@ baseURL: https://sample-feeds.rowanmanning.com/
 params:
   analytics:
     fathomSiteId: "QXEMFQJP"
-    fathomSiteHostname: "falcon.rowanmanning.com"
+    fathomSiteHostname: "cdn.usefathom.com"
