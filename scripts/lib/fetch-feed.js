@@ -1,6 +1,5 @@
 'use strict';
 
-const axios = require('axios');
 const crypto = require('crypto');
 const fs = require('fs/promises');
 const path = require('path');
@@ -8,7 +7,11 @@ const path = require('path');
 module.exports = async function fetchFeed(type, url) {
 
 	// Create
-	const {data: xml} = await axios.get(url, {responseType: 'text'});
+	const response = await fetch(url);
+	if (!response.ok) {
+		throw new Error(`URL responded with a ${response.status} status code`);
+	}
+	const xml = await response.text();
 	const directoryName = crypto.createHash('md5').update(url).digest('hex');
 	const pagePath = path.resolve(__dirname, '..', '..', 'content', type, directoryName);
 
