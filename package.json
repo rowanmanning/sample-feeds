@@ -16,7 +16,8 @@
   "bugs": "https://github.com/rowanmanning/sample-feeds/issues",
   "license": "GPL-3.0",
   "engines": {
-    "node": ">=16"
+    "node": "20.x",
+    "npm": "10.x"
   },
   "scripts": {
     "start": "hugo server",
@@ -28,5 +29,9 @@
   "devDependencies": {
     "@rowanmanning/eslint-config": "^8.0.1",
     "eslint": "^8.54.0"
+  },
+  "volta": {
+    "node": "20.11.0",
+    "npm": "10.3.0"
   }
 }

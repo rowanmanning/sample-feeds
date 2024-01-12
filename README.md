@@ -14,7 +14,7 @@ A website containing sample Atom, RDF, and RSS feeds - [sample-feeds.rowanmannin
 
 ## Adding new feeds
 
-To add new feeds you'll need [Node.js](https://nodejs.org/) version 16+, and to clone this repo locally (it's best to first fork this repo and then clone your fork so you have push access). Run the following in this repo to install dependencies:
+To add new feeds you'll need [Node.js](https://nodejs.org/) version 20+, and to clone this repo locally (it's best to first fork this repo and then clone your fork so you have push access). Run the following in this repo to install dependencies:
 
 ```bash
 npm install
