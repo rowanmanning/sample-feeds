@@ -24,7 +24,7 @@
     "verify": "eslint ."
   },
   "devDependencies": {
-    "@rowanmanning/eslint-config": "^8.0.1",
+    "@rowanmanning/eslint-config": "^8.0.2",
     "eslint": "^8.56.0"
   },
   "volta": {
