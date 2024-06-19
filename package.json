@@ -20,15 +20,15 @@
     "npm": "10.x"
   },
   "scripts": {
-    "start": "hugo server",
-    "verify": "eslint ."
-  },
-  "devDependencies": {
-    "@rowanmanning/eslint-config": "^8.1.0",
-    "eslint": "^8.57.0"
+    "verify": "eslint .",
+    "verify:biome": "biome check",
+    "start": "hugo server"
   },
   "volta": {
     "node": "20.11.0",
     "npm": "10.3.0"
+  },
+  "devDependencies": {
+    "@rowanmanning/biome-config": "^1.2.0"
   }
 }
