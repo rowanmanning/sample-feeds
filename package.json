@@ -20,7 +20,7 @@
     "npm": "10.x"
   },
   "scripts": {
-    "verify": "eslint .",
+    "verify": "npm run verify:biome",
     "verify:biome": "biome check",
     "start": "hugo server"
   },
