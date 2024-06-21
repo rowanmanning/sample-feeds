@@ -16,8 +16,7 @@
   "bugs": "https://github.com/rowanmanning/sample-feeds/issues",
   "license": "GPL-3.0",
   "engines": {
-    "node": "20.x",
-    "npm": "10.x"
+    "node": "20.x"
   },
   "scripts": {
     "verify": "npm run verify:biome",
@@ -25,8 +24,7 @@
     "start": "hugo server"
   },
   "volta": {
-    "node": "20.11.0",
-    "npm": "10.3.0"
+    "node": "20.11.0"
   },
   "devDependencies": {
     "@rowanmanning/biome-config": "^1.2.0"
