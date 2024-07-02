@@ -27,6 +27,6 @@
     "node": "20.11.0"
   },
   "devDependencies": {
-    "@rowanmanning/biome-config": "^1.2.0"
+    "@rowanmanning/biome-config": "^1.3.0"
   }
 }
