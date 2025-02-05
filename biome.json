@@ -2,11 +2,11 @@
 	"$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
 	"extends": ["./node_modules/@rowanmanning/biome-config/config.json"],
 	"files": {
-		"ignore": ["build", "themes/**/*.json"]
+		"ignore": ["build", "resources", "themes/**/*.json"]
 	},
 	"linter": {
 		"rules": {
-			"nursery": {
+			"suspicious": {
 				"noConsole": "off"
 			}
 		}
