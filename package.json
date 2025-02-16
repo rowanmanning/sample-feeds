@@ -21,6 +21,7 @@
   "scripts": {
     "verify": "npm run verify:biome",
     "verify:biome": "biome check",
+    "build": "hugo --minify --environment production",
     "start": "hugo server"
   },
   "volta": {
