@@ -4,6 +4,6 @@ on: [push]
 
 jobs:
   deploy:
-    uses: rowanmanning/actions/.github/workflows/hugo-website.yml@v3
+    uses: rowanmanning/actions/.github/workflows/hugo-website.yml@v4
     with:
       hugo-version: '0.86.0'
