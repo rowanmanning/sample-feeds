@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KVK Status - Incident History</title>
+    <link>https://status.kvk.nl</link>
+    <atom:link rel="self" href="https://sample-feeds.rowanmanning.com/real-world/ea809c02dc7f3c4439415b945e32889b/feed.xml" type="application/rss+xml"/>
+    <description>Incident history of KVK</description>
+    <pubDate>Mon, 23 Mar 2026 09:29:32 +0000</pubDate>
+    <item>
+      <title>Storing M2603 2834  (Prioriteit 1)</title>
+      <pubDate>Mon, 23 Mar 2026 09:29:32 +0000</pubDate>
+      <category domain="event:start">Mon, 23 Mar 2026 08:53:00 +0000</category>
+      <category domain="event:end">Mon, 23 Mar 2026 09:29:32 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Major incident&lt;/strong&gt; - KVK.nl&lt;/p&gt;&lt;p&gt;&lt;small&gt;23-03-2026 · 10:28 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Opgelost&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+De storing met verschillende diensten van KVK is opgelost.  &lt;br /&gt;
+Je kunt weer gebruik maken van deze diensten zoals je van ons gewend bent.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;23-03-2026 · 09:53 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Probleem&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment een storing met verschillende diensten van de KVK.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen gebruik maken van deze diensten.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 10:30.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/228115</link>
+      <guid>https://status.kvk.nl/incidents/228115</guid>
+    </item>
+    <item>
+      <title>KMS en S&amp;U tijdelijk niet beschikbaar</title>
+      <pubDate>Tue, 17 Mar 2026 15:00:00 +0000</pubDate>
+      <category domain="event:start">Tue, 17 Mar 2026 14:00:00 +0000</category>
+      <category domain="event:end">Tue, 17 Mar 2026 15:00:00 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Scheduled maintenance&lt;/strong&gt; - KVK producten, KVK Mutatieservice, KVK Mutatieservice via API, KVK Mutatieservice via Digilevering&lt;/p&gt;&lt;p&gt;&lt;small&gt;03-03-2026 · 14:36 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Gepland&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+In verband met onderhoud zijn de KVK Mutatieservice en de Signaal en Updateservice niet beschikbaar op dinsdag 17 maart 2026 tussen 15:00 uur en 16:00 uur.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/225385</link>
+      <guid>https://status.kvk.nl/incidents/225385</guid>
+    </item>
+    <item>
+      <title>Gepland onderhoud, KVK-diensten niet beschikbaar</title>
+      <pubDate>Sat, 14 Mar 2026 15:00:00 +0000</pubDate>
+      <category domain="event:start">Sat, 14 Mar 2026 05:00:00 +0000</category>
+      <category domain="event:end">Sat, 14 Mar 2026 15:00:00 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Scheduled maintenance&lt;/strong&gt; - KVK.nl, KVK producten, KVK API, KVK Handelsregister Zoeken API, KVK Handelsregister Basisprofiel API, KVK Handelsregister Vestigingsprofiel API, KVK Handelsregister Naamgeving API, KVK Dataservice, KVK Dataservice Inschrijving, KVK Dataservice Vestiging, KVK Uittreksel UBO-register, Uittreksel Handelsregister (Digitaal gewaarmerkt), Jaarrekeningen, Overzicht Deponeringen, KVK Mutatieservice, KVK Mutatieservice via API, KVK Mutatieservice via Digilevering, KVK diensten, Diensten voor notarissen, ORN - Online Registreren Notariaat, KOS - Online Registreren Notariaat API, NAU - Notaris Applicatie UBO, DAE - Digitale Afgifte Exportdocumenten, Digitaal Ondernemersplein, Ondernemersplein, Business.gov.nl, Mijn KVK&lt;/p&gt;&lt;p&gt;&lt;small&gt;05-03-2026 · 15:34 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Gepland&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Op zaterdag 14 maart 2026 van 06.00 - 16.00 uur vinden er onderhoudswerkzaamheden plaats waarvan je hinder kunt ondervinden.&lt;/p&gt;
+&lt;p&gt;
+Wat betekent dat voor jou?  &lt;br /&gt;
+Tijdens deze onderhoudsperiode kun je op kvk.nl geen registraties en wijzigingen in de registers (KVK Handelsregister, UBO, LEI en Jaarrekeningen) doorvoeren. Ook is het niet mogelijk om producten uit het Handelsregister (zoals uittreksels) of UBO-register af te nemen via kvk.nl, de KVK API en KVK Dataservice.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/225617</link>
+      <guid>https://status.kvk.nl/incidents/225617</guid>
+    </item>
+    <item>
+      <title>Storing M2603 0191  (Prioriteit 2)</title>
+      <pubDate>Mon, 2 Mar 2026 16:08:01 +0000</pubDate>
+      <category domain="event:start">Mon, 2 Mar 2026 13:58:11 +0000</category>
+      <category domain="event:end">Mon, 2 Mar 2026 16:08:01 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Minor incident&lt;/strong&gt; - KVK diensten, Jaarrekening Deponeren, ZDJ – Zelf Deponeren Jaarrekening&lt;/p&gt;&lt;p&gt;&lt;small&gt;02-03-2026 · 17:07 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Opgelost&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+De storing met ZDJ (Zelf deponeren jaarrekeningen) is opgelost.  &lt;br /&gt;
+Je kunt weer gebruik maken van deze dienst zoals je van ons gewend bent.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-03-2026 · 16:03 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met ZDJ (Zelf Deponeren Jaarrekeningen).  &lt;br /&gt;
+Hierdoor kun je geen/beperkt gebruik maken van ZDJ. Dit heeft als gevolg dat klanten een HTTP foutmelding ervaren bij het deponeren van een jaarrekening via onze website (ZDJ), Dit gebeurd nadat de opgemaakte jaarrekening is verzonden&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er nog geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 17:00&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-03-2026 · 14:58 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Probleem&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment een storing met ZDJ (Zelf Deponeren Jaarrekeningen)&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen/beperkt gebruik maken van ZDJ. Dit heeft als gevolg dat klanten een HTTP foutmelding ervaren bij het deponeren van een jaarrekening via onze website (ZDJ), Dit gebeurd nadat de opgemaakte jaarrekening is verzonden&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 16:00&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/225279</link>
+      <guid>https://status.kvk.nl/incidents/225279</guid>
+    </item>
+    <item>
+      <title>KMS en S&amp;U tijdelijk niet beschikbaar</title>
+      <pubDate>Fri, 27 Feb 2026 10:00:00 +0000</pubDate>
+      <category domain="event:start">Fri, 27 Feb 2026 09:00:00 +0000</category>
+      <category domain="event:end">Fri, 27 Feb 2026 10:00:00 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Scheduled maintenance&lt;/strong&gt; - KVK producten, KVK Mutatieservice, KVK Mutatieservice via API, KVK Mutatieservice via Digilevering&lt;/p&gt;&lt;p&gt;&lt;small&gt;12-02-2026 · 14:14 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Gepland&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+In verband met onderhoud zijn de KVK   Mutatieservice en de Signaal en Updateservice niet beschikbaar op vrijdag 27 februari 2026 tussen 10:00 uur en 11:00 uur.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/222769</link>
+      <guid>https://status.kvk.nl/incidents/222769</guid>
+    </item>
+    <item>
+      <title>Storing M2602 3001 (Prioriteit 1)</title>
+      <pubDate>Wed, 25 Feb 2026 15:32:41 +0000</pubDate>
+      <category domain="event:start">Wed, 25 Feb 2026 09:27:55 +0000</category>
+      <category domain="event:end">Wed, 25 Feb 2026 15:00:00 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Major incident&lt;/strong&gt; - KVK.nl&lt;/p&gt;&lt;p&gt;&lt;small&gt;25-02-2026 · 16:00 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Opgelost&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+De storing met KVK.nl is opgelost.&lt;/p&gt;
+&lt;p&gt;
+De website is weer beschikbaar.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;25-02-2026 · 12:19 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Updaten&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Vanaf vanmorgen 10.30 uur is onze website kvk.nl niet bereikbaar.  &lt;br /&gt;
+Dit komt door een ddos-aanval. We begrijpen dat dit vervelend is, vooral als u ons nodig heeft.  &lt;br /&gt;
+Onze specialisten werken er hard aan om de website zo snel mogelijk weer beschikbaar te maken.  &lt;br /&gt;
+We houden u op de hoogte via dit kanaal en via onze social media.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;25-02-2026 · 11:32 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met KVK.nl  &lt;br /&gt;
+Dit heeft tot gevolg dat de website kvk.nl bijna niet of helemaal niet benaderbaar is.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er nog geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 12:00&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;25-02-2026 · 10:52 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met KVK.nl  &lt;br /&gt;
+Dit heeft tot gevolg dat de website kvk.nl bijna niet of helemaal niet benaderbaar is.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er nog geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 11:30&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;25-02-2026 · 10:27 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Probleem&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment een storing met KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor is de website kvk.nl, bijna niet of helemaal niet benaderbaar.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 11:00&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/224470</link>
+      <guid>https://status.kvk.nl/incidents/224470</guid>
+    </item>
+    <item>
+      <title>Onderhoudsweekend 7-8 februari</title>
+      <pubDate>Sat, 7 Feb 2026 15:00:01 +0000</pubDate>
+      <category domain="event:start">Sat, 7 Feb 2026 05:00:00 +0000</category>
+      <category domain="event:end">Sat, 7 Feb 2026 15:00:00 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Scheduled maintenance&lt;/strong&gt; - KVK.nl, KVK producten, KVK API, KVK Handelsregister Zoeken API, KVK Handelsregister Basisprofiel API, KVK Handelsregister Vestigingsprofiel API, KVK Handelsregister Naamgeving API, KVK Dataservice, KVK Dataservice Inschrijving, KVK Dataservice Vestiging, KVK Uittreksel UBO-register, Uittreksel Handelsregister (Digitaal gewaarmerkt), Jaarrekeningen, Overzicht Deponeringen, KVK Mutatieservice, KVK Mutatieservice via API, KVK Mutatieservice via Digilevering, KVK diensten, Diensten voor notarissen, ORN - Online Registreren Notariaat, KOS - Online Registreren Notariaat API, NAU - Notaris Applicatie UBO, DAE - Digitale Afgifte Exportdocumenten, Digitaal Ondernemersplein, Ondernemersplein, Business.gov.nl, Mijn KVK&lt;/p&gt;&lt;p&gt;&lt;small&gt;28-01-2026 · 14:35 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Gepland&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Gepland onderhoud, KVK-diensten niet beschikbaar&lt;/strong&gt;  &lt;br /&gt;
+Op zaterdag 7 februari 2026 van 06.00 - 16.00 uur vinden er onderhoudswerkzaamheden plaats waarvan je hinder kunt ondervinden.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Wat betekent dat voor jou?&lt;/strong&gt;  &lt;br /&gt;
+Tijdens deze onderhoudsperiode kun je op kvk.nl geen registraties en wijzigingen in de registers (KVK Handelsregister, UBO, LEI en Jaarrekeningen) doorvoeren. Ook is het niet mogelijk om producten uit het Handelsregister (zoals uittreksels) of UBO-register af te nemen via kvk.nl, de KVK API en KVK Dataservice.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/220974</link>
+      <guid>https://status.kvk.nl/incidents/220974</guid>
+    </item>
+    <item>
+      <title>S&amp;U tijdelijk niet beschikbaar op dinsdag 20-01-2026 van 21:00 tot 22:00 uur</title>
+      <pubDate>Tue, 20 Jan 2026 21:00:00 +0000</pubDate>
+      <category domain="event:start">Tue, 20 Jan 2026 20:00:00 +0000</category>
+      <category domain="event:end">Tue, 20 Jan 2026 21:00:00 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Scheduled maintenance&lt;/strong&gt; - KVK producten&lt;/p&gt;&lt;p&gt;&lt;small&gt;20-01-2026 · 13:36 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Updaten&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met een aantal diensten en producten van de KVK.&lt;/p&gt;
+&lt;p&gt;
+Dit heeft tot gevolg dat je geen gebruik maken van deze diensten en producten.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er nog geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 14:00.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;18-12-2025 · 07:43 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Gepland&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Geachte relatie,&lt;/p&gt;
+&lt;p&gt;
+In verband met onderhoud is de Signaal en Updateservice van KVK niet beschikbaar op dinsdag 20 januari 2026 tussen 21:00 uur en 22:00 uur.  &lt;/p&gt;
+&lt;p&gt;
+Wij verwachten geen impact voor onze klanten en een minimale downtime.&lt;/p&gt;
+&lt;p&gt;
+Voor meer informatie kunt u navraag doen bij uw relatiemanager.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/216694</link>
+      <guid>https://status.kvk.nl/incidents/216694</guid>
+    </item>
+    <item>
+      <title>Storing M2601 2333 (Prioriteit 1)</title>
+      <pubDate>Tue, 20 Jan 2026 14:36:36 +0000</pubDate>
+      <category domain="event:start">Tue, 20 Jan 2026 13:51:55 +0000</category>
+      <category domain="event:end">Tue, 20 Jan 2026 14:36:36 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Major incident&lt;/strong&gt; - KVK diensten, DAE - Digitale Afgifte Exportdocumenten&lt;/p&gt;&lt;p&gt;&lt;small&gt;20-01-2026 · 15:33 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Opgelost&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+De storing bij KVK is inmiddels verholpen. Het is weer mogelijk om Exportdocumenten in te dienen en op te vragen.  &lt;br /&gt;
+Aan de balie komen is niet meer van toepassing.&lt;/p&gt;
+&lt;p&gt;
+Onze excuses voor het ongemak en dank voor uw begrip.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;20-01-2026 · 14:51 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Probleem&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Beste relatie,&lt;/p&gt;
+&lt;p&gt;
+Helaas hebben wij op dit moment een storing met DAE.&lt;/p&gt;
+&lt;p&gt;
+Door deze verstoring is DAE niet beschikbaar. We kunnen op dit moment geen verwachting geven over de oplostijd.  &lt;br /&gt;
+Hebben jullie klanten die vandaag nog een document nodig hebben? In dat geval kunnen zij met een volledig ingevuld document terecht aan de balie van één van onze kantoren: Arnhem, Amsterdam, Eindhoven of Rotterdam. Dit is uitsluitend bedoeld voor écht urgente gevallen.  &lt;br /&gt;
+Wij vragen de bedrijven vooraf telefonisch contact op te nemen (088-5851887 West, 088-5851889 Oost-Zuid) met het kantoor waar zij normaal gesproken hun documenten laten opmaken. Zij kunnen tot 16:45 uur terecht.&lt;/p&gt;
+&lt;p&gt;
+Alvast dank voor jullie begrip.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/219565</link>
+      <guid>https://status.kvk.nl/incidents/219565</guid>
+    </item>
+    <item>
+      <title>Storing M2601 2356  (Prioriteit 1)</title>
+      <pubDate>Tue, 3 Feb 2026 13:19:46 +0000</pubDate>
+      <category domain="event:start">Tue, 20 Jan 2026 11:05:00 +0000</category>
+      <category domain="event:end">Tue, 20 Jan 2026 14:27:50 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Major incident&lt;/strong&gt; - KVK producten, KVK diensten, DAE - Digitale Afgifte Exportdocumenten&lt;/p&gt;&lt;p&gt;&lt;small&gt;20-01-2026 · 15:23 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Opgelost&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+De storing met verschillende diensten, KVK API, KVK Mutatieservice via API en KVK Dataservice is opgelost.&lt;/p&gt;
+&lt;p&gt;
+Je kunt weer gebruik maken van deze diensten zoals je van ons gewend bent.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;20-01-2026 · 14:17 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met een aantal diensten en producten van de KVK:  &lt;br /&gt;
+KVK API, KVK Mutatieservice via API en KVK Dataservice.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen gebruik maken van deze diensten.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er nog geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 15:00&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;20-01-2026 · 12:56 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Probleem&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment een storing met een aantal diensten en producten van de KVK.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen gebruik maken van deze diensten.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 13:30.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/219557</link>
+      <guid>https://status.kvk.nl/incidents/219557</guid>
+    </item>
+    <item>
+      <title>Storing M2601 0613  (Prioriteit 1)</title>
+      <pubDate>Wed, 7 Jan 2026 14:30:17 +0000</pubDate>
+      <category domain="event:start">Wed, 7 Jan 2026 13:31:35 +0000</category>
+      <category domain="event:end">Wed, 7 Jan 2026 14:30:17 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Major incident&lt;/strong&gt; - KVK.nl, KVK producten, KVK API, KVK Handelsregister Zoeken API, KVK Handelsregister Basisprofiel API, KVK Handelsregister Vestigingsprofiel API, KVK Handelsregister Naamgeving API, KVK Dataservice, KVK Dataservice Inschrijving, KVK Dataservice Vestiging, KVK Uittreksel UBO-register, Uittreksel Handelsregister (Digitaal gewaarmerkt), Jaarrekeningen, Overzicht Deponeringen, KVK Mutatieservice, KVK Mutatieservice via API, KVK Mutatieservice via Digilevering, KVK diensten, Diensten voor notarissen, ORN - Online Registreren Notariaat, NAU - Notaris Applicatie UBO, DAE - Digitale Afgifte Exportdocumenten, Jaarrekening Deponeren, ZDJ – Zelf Deponeren Jaarrekening, SBR/Digipoort – Standaard Business Reporting middelgroot en groot&lt;/p&gt;&lt;p&gt;&lt;small&gt;07-01-2026 · 15:29 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Opgelost&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+De storing met de verschillende diensten van KVK is opgelost.  &lt;br /&gt;
+Je kunt weer gebruik maken van deze diensten zoals je van ons gewend bent.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;07-01-2026 · 14:56 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een verstoring met de diensten van KVK.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen gebruik maken van verschillende diensten.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 15:30.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;07-01-2026 · 14:31 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Probleem&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment een verstoring met de diensten van KVK.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen gebruik maken van verschillende diensten.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt.  &lt;br /&gt;
+Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 15:00.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/218247</link>
+      <guid>https://status.kvk.nl/incidents/218247</guid>
+    </item>
+    <item>
+      <title>Storing M2601 0061 (Prioriteit 1)</title>
+      <pubDate>Fri, 2 Jan 2026 14:18:46 +0000</pubDate>
+      <category domain="event:start">Fri, 2 Jan 2026 11:30:00 +0000</category>
+      <category domain="event:end">Fri, 2 Jan 2026 14:18:46 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Major incident&lt;/strong&gt; - KVK diensten, Jaarrekening Deponeren, ZDJ – Zelf Deponeren Jaarrekening&lt;/p&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 15:18 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Opgelost&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+De storing met het deponeren van jaarrekeningen via het ZDJ portaal is opgelost.  &lt;br /&gt;
+Je kunt weer gebruik maken van deze dienst zoals je van ons gewend bent.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 14:35 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het deponeren van jaarrekeningen.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen jaarrekeningen deponeren via het ZDJ portaal.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt door de leverancier.  &lt;br /&gt;
+Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 15:30.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 13:31 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het deponeren van jaarrekeningen.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen jaarrekeningen deponeren via het ZDJ portaal.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt door de leverancier.  &lt;br /&gt;
+Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 14:30&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 12:30 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Probleem&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment een storing met het deponeren van jaarrekeningen.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen jaarrekeningen deponeren via het ZDJ portaal.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt door de leverancier.  &lt;br /&gt;
+Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 13:30.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/218000</link>
+      <guid>https://status.kvk.nl/incidents/218000</guid>
+    </item>
+    <item>
+      <title>Storing M601 0053  (Prioriteit 1)</title>
+      <pubDate>Mon, 5 Jan 2026 07:40:23 +0000</pubDate>
+      <category domain="event:start">Fri, 2 Jan 2026 10:51:38 +0000</category>
+      <category domain="event:end">Mon, 5 Jan 2026 07:40:23 +0000</category>
+      <description>&lt;p&gt;&lt;strong&gt;Major incident&lt;/strong&gt; - KVK.nl&lt;/p&gt;&lt;p&gt;&lt;small&gt;05-01-2026 · 08:39 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Opgelost&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+De storing met het uploaden van PDF documenten via KVK.nl is opgelost.  &lt;br /&gt;
+Je kunt weer gebruik maken van deze dienst zoals je van ons gewend bent.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 17:04 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update maandag ochtend om 9:00.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 16:26 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 17:00.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 15:57 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 16:30.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 15:27 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 16:00.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 14:59 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 15:30.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 14:01 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 15:00.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 13:35 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 14:30.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 13:30 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 14:00.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 12:54 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 13:00.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 12:30 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Wordt onderzocht&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment nog steeds een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 13:00.&lt;/p&gt;
+&lt;hr&gt;&lt;p&gt;&lt;small&gt;02-01-2026 · 11:51 CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Probleem&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Helaas hebben wij op dit moment een storing met het uploaden van PDF documenten via KVK.nl.&lt;/p&gt;
+&lt;p&gt;
+Hierdoor kun je geen PDF’s uploaden.&lt;/p&gt;
+&lt;p&gt;
+Op dit moment wordt aan de oplossing gewerkt. Er is geen oplostijd beschikbaar.&lt;/p&gt;
+&lt;p&gt;
+Je ontvangt de volgende update omstreeks 12:30.&lt;/p&gt;
+</description>
+      <link>https://status.kvk.nl/incidents/217992</link>
+      <guid>https://status.kvk.nl/incidents/217992</guid>
+    </item>
+  </channel>
+</rss>
