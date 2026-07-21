@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>t</title>
+		<item><title>007</title></item>
+		<item><title>0</title></item>
+		<item>
+			<title>x</title>
+			<guid>00123</guid>
+		</item>
+	</channel>
+</rss>
